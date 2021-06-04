@@ -44,5 +44,5 @@ For more information about panels, refer to the documentation on [Panels](https:
 - [Grafana UI Library](https://developers.grafana.com/ui) - UI components to help you build interfaces using Grafana Design System
 
 ## Other explaination 
-   1 IS is all learn from others panel plug in.
-   2 This is used in some project.
+1. IS is all learn from others panel plug in.
+2. This is used in some project.
